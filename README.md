@@ -17,9 +17,6 @@ Hi! I'm Anastasiia — a Full Stack Developer based in Colorado, USA 🇺🇸
 - 🗄️ **Databases:** PostgreSQL, SQLite, SQLAlchemy, Firebase  
 - 🥾 **Interests:** Hiking, Outdoor Adventures  
 - 🚀 **Current Status:** Open to new opportunities
-     **Contact:** [anamoose.dev@outlook.com](mailto:anamoose.dev@outlook.com)  
-     **Portfolio:** [Portfolio Site](https://anastasiiamuzh.github.io/Portfolio-bootstrap/)  
-     **LinkedIn:** [anamoose](https://www.linkedin.com/in/anastasiia-m-618980290/)
 
 
 
