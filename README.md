@@ -96,7 +96,7 @@ Hi! I'm Anastasiia — a Full Stack Developer based in Colorado, USA 🇺🇸
         <a href="https://wildorado.onrender.com/">
           <img src="https://img.shields.io/badge/🌐_Live_Demo-6366F1?style=for-the-badge" alt="Live Demo">
         </a>
-        <a href="#">
+        <a href="https://github.com/AnastasiiaMuzh/Wildorado">
           <img src="https://img.shields.io/badge/📂_GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
         </a>
       </td>
@@ -105,7 +105,7 @@ Hi! I'm Anastasiia — a Full Stack Developer based in Colorado, USA 🇺🇸
         <p><em>E-commerce Platform</em></p>
         <p><strong>Tech:</strong> Flask, Python, SQLAlchemy, React, Redux</p>
         <br>
-        <a href="#">
+        <a href="https://github.com/AnastasiiaMuzh/Project_Artsy">
           <img src="https://img.shields.io/badge/🌐_Live_Demo-6366F1?style=for-the-badge" alt="Live Demo">
         </a>
         <a href="https://github.com/AnastasiiaMuzh/Artsy">
@@ -119,7 +119,7 @@ Hi! I'm Anastasiia — a Full Stack Developer based in Colorado, USA 🇺🇸
         <p><em>Travel Planning Application</em></p>
         <p><strong>Tech:</strong> Express, Sequelize, React, Redux</p>
         <br>
-        <a href="#">
+        <a href="https://github.com/AnastasiiaMuzh/JA_VACATION">
           <img src="https://img.shields.io/badge/🌐_Live_Demo-6366F1?style=for-the-badge" alt="Live Demo">
         </a>
         <a href="https://github.com/AnastasiiaMuzh/JA_VACATION">
