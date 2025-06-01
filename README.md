@@ -10,18 +10,17 @@
 
 ## 🌟 About Me
 
-```typescript
 const anastasiia: Developer = {
   location: "Colorado, USA 🇺🇸",
-  role: "Software Engineer (Frontend / Full-Stack)",
+  role: "Full Stack Developer",
   languages: ["JavaScript", "Python", "TypeScript"],
-  frameworks: ["React", "Flask", "Next.js", "Express", "Node.js"],
-  databases: ["PostgreSQL", "SQLite", "SQL"],
-  interests: ["Hiking 🥾", "Ranch Life 🐎", "Outdoor Adventures 🌄"],
+  frameworks: ["React", "Flask", "Next.js", "Express"],
+  databases: ["PostgreSQL", "SQLite", "SQLAlchemy", "Firebase"],
+  interests: ["Hiking 🥾", "Outdoor Adventures 🌄"],
   currentStatus: "Open to new opportunities",
   contact: "anamoose.dev@outlook.com"
 };
-```
+
 
 <div align="center">
   
