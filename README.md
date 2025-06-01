@@ -8,18 +8,20 @@
   
 </div>
 
-## 🌟 About Me
+## ✨ About Me
 
-const anastasiia: Developer = {
-  location: "Colorado, USA 🇺🇸",
-  role: "Full Stack Developer",
-  languages: ["JavaScript", "Python", "TypeScript"],
-  frameworks: ["React", "Flask", "Next.js", "Express"],
-  databases: ["PostgreSQL", "SQLite", "SQLAlchemy", "Firebase"],
-  interests: ["Hiking 🥾", "Outdoor Adventures 🌄"],
-  currentStatus: "Open to new opportunities",
-  contact: "anamoose.dev@outlook.com"
-};
+Hi! I'm Anastasiia — a Full Stack Developer based in Colorado, USA 🇺🇸
+
+- 💻 **Languages:** JavaScript, Python, TypeScript  
+- ⚛️ **Frameworks:** React, Flask, Next.js, Express  
+- 🗄️ **Databases:** PostgreSQL, SQLite, SQLAlchemy, Firebase  
+- 🥾 **Interests:** Hiking, Outdoor Adventures  
+- 🚀 **Current Status:** Open to new opportunities
+
+**Contact:** [anamoose.dev@outlook.com](mailto:anamoose.dev@outlook.com)  
+**Portfolio:** [Portfolio Site](https://anastasiiamuzh.github.io/Portfolio-bootstrap/)  
+**LinkedIn:** [anamoose](https://www.linkedin.com/in/anastasiia-m-618980290/)
+
 
 
 <div align="center">
