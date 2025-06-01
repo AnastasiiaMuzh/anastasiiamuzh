@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;React+%7C+Python+%7C+Flask+Expert;Colorado+Based+%F0%9F%8F%94%EF%B8%8F;Open+to+New+Opportunities+%E2%9C%A8)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Software+Engineer+%F0%9F%92%BB;Frontend+%7C+Full-Stack+Expert;React+%7C+Node.js+%7C+Python;Colorado+Based+%F0%9F%8F%94%EF%B8%8F;Open+to+New+Opportunities+%E2%9C%A8)
   
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
   
@@ -13,10 +13,10 @@
 ```typescript
 const anastasiia: Developer = {
   location: "Colorado, USA 🇺🇸",
-  role: "Full Stack Developer",
+  role: "Software Engineer (Frontend / Full-Stack)",
   languages: ["JavaScript", "Python", "TypeScript"],
-  frameworks: ["React", "Flask", "Next.js", "Express"],
-  databases: ["PostgreSQL", "SQLite", "SQLAlchemy"],
+  frameworks: ["React", "Flask", "Next.js", "Express", "Node.js"],
+  databases: ["PostgreSQL", "SQLite", "SQL"],
   interests: ["Hiking 🥾", "Ranch Life 🐎", "Outdoor Adventures 🌄"],
   currentStatus: "Open to new opportunities",
   contact: "anamoose.dev@outlook.com"
@@ -25,9 +25,9 @@ const anastasiia: Developer = {
 
 <div align="center">
   
-  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://anastasiiamuzh.github.io/Portfolio-bootstrap/)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anastasiia-m-618980290/)
-  [![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anamoose.dev@outlook.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://anastasiiamuzh.github.io/Portfolio-bootstrap/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anastasiia-m-618980290/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anamoose.dev@outlook.com)
   
 </div>
 
@@ -94,30 +94,39 @@ const anastasiia: Developer = {
       <td align="center" width="50%">
         <h3>🏔️ Wildorado</h3>
         <p><em>Hiker's Activity Platform</em></p>
-        <p>Full-stack hiking community app with user authentication, activity tracking, and social features</p>
-        <p><strong>Tech:</strong> React • Flask • Redux • PostgreSQL</p>
+        <p><strong>Tech:</strong> React, Redux, Python, Flask, SQLAlchemy, PostgreSQL</p>
+        <br>
         <a href="https://wildorado.onrender.com/">
-          <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit-6366F1?style=for-the-badge" alt="Live Demo">
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-6366F1?style=for-the-badge" alt="Live Demo">
+        </a>
+        <a href="#">
+          <img src="https://img.shields.io/badge/📂_GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
         </a>
       </td>
       <td align="center" width="50%">
         <h3>🎨 Artsy</h3>
         <p><em>E-commerce Platform</em></p>
-        <p>Modern art marketplace with shopping cart, user profiles, and secure payment integration</p>
-        <p><strong>Tech:</strong> React • Redux • Flask • SQLAlchemy</p>
+        <p><strong>Tech:</strong> Flask, Python, SQLAlchemy, React, Redux</p>
+        <br>
+        <a href="#">
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-6366F1?style=for-the-badge" alt="Live Demo">
+        </a>
         <a href="https://github.com/AnastasiiaMuzh/Artsy">
-          <img src="https://img.shields.io/badge/📂_Source_Code-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
+          <img src="https://img.shields.io/badge/📂_GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
         </a>
       </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
-        <h3>✈️ JA_VACATION</h3>
+        <h3>✈️ JA-Vacation</h3>
         <p><em>Travel Planning Application</em></p>
-        <p>Comprehensive travel app with itinerary planning, booking management, and destination guides</p>
-        <p><strong>Tech:</strong> React • Express.js • Sequelize • Node.js</p>
+        <p><strong>Tech:</strong> Express, Sequelize, React, Redux</p>
+        <br>
+        <a href="#">
+          <img src="https://img.shields.io/badge/🌐_Live_Demo-6366F1?style=for-the-badge" alt="Live Demo">
+        </a>
         <a href="https://github.com/AnastasiiaMuzh/JA_VACATION">
-          <img src="https://img.shields.io/badge/📂_Source_Code-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
+          <img src="https://img.shields.io/badge/📂_GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
         </a>
       </td>
     </tr>
@@ -162,16 +171,12 @@ const anastasiia: Developer = {
 
 <div align="center">
   
-  ## 💬 Let's Connect & Collaborate!
+  ## 💬 Let's Connect!
   
-  <p>
-    <em>I'm always excited to work on innovative projects and meet fellow developers!</em>
-  </p>
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/anastasiia-m-618980290/)
-  [![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/AnastasiiaMuzh)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-6366F1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=6366F1)](https://anastasiiamuzh.github.io/Portfolio-bootstrap/)
-  [![Email](https://img.shields.io/badge/Email-Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:anamoose.dev@outlook.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/anastasiia-m-618980290/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/AnastasiiaMuzh)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=6366F1)](https://anastasiiamuzh.github.io/Portfolio-bootstrap/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:anamoose.dev@outlook.com)
   
   <img src="https://komarev.com/ghpvc/?username=AnastasiiaMuzh&style=for-the-badge&color=6366F1" alt="Profile Views">
   
