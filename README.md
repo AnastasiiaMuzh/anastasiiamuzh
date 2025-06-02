@@ -85,15 +85,14 @@ Hi! I'm Anastasiia — a Full Stack Developer based in Colorado, USA 🇺🇸
 
 <div align="center">
   
-  <table>
+ <table>
   <tr>
+    <!-- Первый проект -->
     <td align="center" width="33%">
-      <h3 style="display:inline-flex; align-items:center; justify-content:center; gap:12px; margin:0;">
-        <img src="Screenshot_2025-03-03_at_1.48.10_PM-removebg-preview.png" width="45" height="45" alt="Wildorado Logo" style="vertical-align:middle; object-fit:contain; transform: translateY(-18px);" />
-        Wildorado
-      </h3>
-      <p><em>Hiker's Activity Platform</em></p>
-      <p><strong>Tech:</strong> React, Redux, Python, Flask, SQLAlchemy, PostgreSQL</p>
+      <img src="Screenshot_2025-03-03_at_1.48.10_PM-removebg-preview.png" width="45" alt="Wildorado Logo"><br>
+      <strong>Wildorado</strong><br>
+      <em>Hiker's Activity Platform</em><br>
+      <strong>Tech:</strong> React, Redux, Python, Flask, SQLAlchemy, PostgreSQL<br>
       <a href="https://wildorado.onrender.com/">
         <img src="https://img.shields.io/badge/🌐_Live_Demo-6366F1?style=for-the-badge" alt="Live Demo">
       </a>
@@ -101,13 +100,12 @@ Hi! I'm Anastasiia — a Full Stack Developer based in Colorado, USA 🇺🇸
         <img src="https://img.shields.io/badge/📂_GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
       </a>
     </td>
+    <!-- Второй проект -->
     <td align="center" width="33%">
-      <h3 style="display:inline-flex; align-items:center; justify-content:center; gap:12px; margin:0;">
-        <img src="Screenshot_2025-06-01_at_6.12.16_PM-removebg-preview.png" width="45" height="45" alt="Artsy Logo" style="vertical-align:middle; object-fit:contain; margin-button: -40px;" />
-        Artsy
-      </h3>
-      <p><em>E-commerce Platform</em></p>
-      <p><strong>Tech:</strong> Flask, Python, SQLAlchemy, React, Redux</p>
+      <img src="Screenshot_2025-06-01_at_6.12.16_PM-removebg-preview.png" width="45" alt="Artsy Logo"><br>
+      <strong>Artsy</strong><br>
+      <em>E-commerce Platform</em><br>
+      <strong>Tech:</strong> Flask, Python, SQLAlchemy, React, Redux<br>
       <a href="https://project-artsy.onrender.com/">
         <img src="https://img.shields.io/badge/🌐_Live_Demo-6366F1?style=for-the-badge" alt="Live Demo">
       </a>
@@ -115,13 +113,12 @@ Hi! I'm Anastasiia — a Full Stack Developer based in Colorado, USA 🇺🇸
         <img src="https://img.shields.io/badge/📂_GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
       </a>
     </td>
+    <!-- Третий проект -->
     <td align="center" width="33%">
-      <h3 style="display:inline-flex; align-items:center; justify-content:center; gap:12px; margin:0;">
-        <img src="Screenshot_2025-06-01_at_6.12.29_PM-removebg-preview.png" width="45" height="45" alt="JA-Vacation Logo" style="vertical-align:middle; object-fit:contain; margin-top: 40px;" />
-        JA-Vacation
-      </h3>
-      <p><em>Travel Planning Application</em></p>
-      <p><strong>Tech:</strong> Express, Sequelize, React, Redux</p>
+      <img src="Screenshot_2025-06-01_at_6.12.29_PM-removebg-preview.png" width="45" alt="JA-Vacation Logo"><br>
+      <strong>JA-Vacation</strong><br>
+      <em>Travel Planning Application</em><br>
+      <strong>Tech:</strong> Express, Sequelize, React, Redux<br>
       <a href="https://ja-vacation-ecqu.onrender.com/">
         <img src="https://img.shields.io/badge/🌐_Live_Demo-6366F1?style=for-the-badge" alt="Live Demo">
       </a>
@@ -131,6 +128,8 @@ Hi! I'm Anastasiia — a Full Stack Developer based in Colorado, USA 🇺🇸
     </td>
   </tr>
 </table>
+
+
 
 
 </div>
