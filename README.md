@@ -89,7 +89,10 @@ Hi! I'm Anastasiia — a Full Stack Developer based in Colorado, USA 🇺🇸
   <table>
     <tr>
       <td align="center" width="50%">
-        <h3 <img src="Screenshot_2025-03-03_at_1.48.10_PM-removebg-preview.png" width="160" alt="Logo or Profile Image" align="center"/> Wildorado</h3>
+        <h3 align="center">
+          <img src="Screenshot_2025-03-03_at_1.48.10_PM-removebg-preview.png" width="40" alt="Wildorado Logo" style="vertical-align: middle;"/> &nbsp; Wildorado
+        </h3>
+
         <p><em>Hiker's Activity Platform</em></p>
         <p><strong>Tech:</strong> React, Redux, Python, Flask, SQLAlchemy, PostgreSQL</p>
         <br>
