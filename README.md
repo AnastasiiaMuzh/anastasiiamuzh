@@ -103,7 +103,7 @@ Hi! I'm Anastasiia — a Full Stack Developer based in Colorado, USA 🇺🇸
     </td>
     <td align="center" width="33%">
       <h3 style="display:inline-flex; align-items:center; justify-content:center; gap:12px; margin:0;">
-        <img src="Screenshot_2025-06-01_at_6.12.16_PM-removebg-preview.png" width="45" height="45" alt="Artsy Logo" style="vertical-align:middle; object-fit:contain; margin-top: 20px;" />
+        <img src="Screenshot_2025-06-01_at_6.12.16_PM-removebg-preview.png" width="45" height="45" alt="Artsy Logo" style="vertical-align:middle; object-fit:contain; transform: translateY(8px);" />
         Artsy
       </h3>
       <p><em>E-commerce Platform</em></p>
