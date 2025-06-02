@@ -116,25 +116,24 @@ Hi! I'm Anastasiia — a Full Stack Developer based in Colorado, USA 🇺🇸
       </a>
     </td>
     <td align="center" width="33%">
-      <h3 align="center" style="display:flex; align-items:center; justify-content:center;">
-        <img src="Screenshot_2025-06-01_at_6.12.29_PM-removebg-preview.png"
-     width="40"
-     height="35"
-     alt="JA-Vacation Logo"
-     style="vertical-align:sub; margin-right:8px;" />
+  <img 
+    src="Screenshot_2025-06-01_at_6.12.29_PM-removebg-preview.png"
+    width="40"
+    height="35"
+    alt="JA-Vacation Logo"
+    style="vertical-align:sub; margin-bottom: -5px; margin-right: 5px;"
+  />
+  <h3 align="center" style="display:inline-block; margin:0;">JA-Vacation</h3>
+  <p><em>Travel Planning Application</em></p>
+  <p><strong>Tech:</strong> Express, Sequelize, React, Redux</p>
+  <a href="https://ja-vacation-ecqu.onrender.com/">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-6366F1?style=for-the-badge" alt="Live Demo">
+  </a>
+  <a href="https://github.com/AnastasiiaMuzh/JA_VACATION">
+    <img src="https://img.shields.io/badge/📂_GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+</td>
 
-        JA-Vacation
-      </h3>
-      <p><em>Travel Planning Application</em></p>
-      <p><strong>Tech:</strong> Express, Sequelize, React, Redux</p>
-      <a href="https://ja-vacation-ecqu.onrender.com/">
-        <img src="https://img.shields.io/badge/🌐_Live_Demo-6366F1?style=for-the-badge" alt="Live Demo">
-      </a>
-      <a href="https://github.com/AnastasiiaMuzh/JA_VACATION">
-        <img src="https://img.shields.io/badge/📂_GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
-      </a>
-    </td>
-  </tr>
 </table>
 
   
