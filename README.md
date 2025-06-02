@@ -156,10 +156,8 @@ Hi! I'm Anastasiia — a Full Stack Developer based in Colorado, USA 🇺🇸
   
   ```
   🌄 Colorado Native - Love the mountain lifestyle
-  🐎 Ranch Life Enthusiast - Horses are my passion
   🥾 Hiking Adventurer - Always seeking new trails
   💻 Code by Day, Explore by Weekend
-  🌟 Always learning new technologies
   ```
   
 </div>
