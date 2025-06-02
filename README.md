@@ -88,31 +88,32 @@ Hi! I'm Anastasiia — a Full Stack Developer based in Colorado, USA 🇺🇸
  <table>
   <tr>
     <td align="center" width="33%">
-      <img src="Screenshot_2025-03-03_at_1.48.10_PM-removebg-preview.png" width="40" alt="Wildorado Logo" /><br>
-      <b>Wildorado</b><br>
+      <img src="Screenshot_2025-03-03_at_1.48.10_PM-removebg-preview.png" width="40" alt="Wildorado Logo" />
+      <br><b>Wildorado</b><br>
       <i>Hiker's Activity Platform</i><br>
-      <b>Tech:</b> React, Redux, Python, Flask,<br>SQLAlchemy, PostgreSQL<br>
+      <b>Tech:</b> React, Redux, Python, Flask, SQLAlchemy, PostgreSQL<br>
       <a href="https://wildorado.onrender.com/">🌐 Live Demo</a> •
       <a href="https://github.com/AnastasiiaMuzh/Wildorado">📂 GitHub</a>
     </td>
     <td align="center" width="33%">
-      <img src="Screenshot_2025-06-01_at_6.12.16_PM-removebg-preview.png" width="40" alt="Artsy Logo" /><br>
-      <b>Artsy</b><br>
+      <img src="Screenshot_2025-06-01_at_6.12.16_PM-removebg-preview.png" width="40" alt="Artsy Logo" />
+      <br><b>Artsy</b><br>
       <i>E-commerce Platform</i><br>
-      <b>Tech:</b> Flask, Python, SQLAlchemy, React,<br>Redux<br>
+      <b>Tech:</b> Flask, Python, SQLAlchemy, React, Redux<br>
       <a href="https://project-artsy.onrender.com/">🌐 Live Demo</a> •
       <a href="https://github.com/AnastasiiaMuzh/Project_Artsy">📂 GitHub</a>
     </td>
     <td align="center" width="33%">
-      <img src="Screenshot_2025-06-01_at_6.12.29_PM-removebg-preview.png" width="40" alt="JA-Vacation Logo" /><br>
-      <b>JA-Vacation</b><br>
+      <img src="Screenshot_2025-06-01_at_6.12.29_PM-removebg-preview.png" width="40" alt="JA-Vacation Logo" />
+      <br><b>JA-Vacation</b><br>
       <i>Travel Planning Application</i><br>
-      <b>Tech:</b> Express, Sequelize, React,<br>Redux<br>
+      <b>Tech:</b> Express, Sequelize, React, Redux<br>
       <a href="https://ja-vacation-ecqu.onrender.com/">🌐 Live Demo</a> •
       <a href="https://github.com/AnastasiiaMuzh/JA_VACATION">📂 GitHub</a>
     </td>
   </tr>
 </table>
+
 
 
 
