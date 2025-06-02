@@ -27,8 +27,8 @@ Hi! I'm Anastasiia — a Full Stack Developer based in Colorado, USA 🇺🇸
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anamoose.dev@outlook.com)
   
 </div>
----
 
+---
 
 <div align="center">
   
