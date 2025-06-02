@@ -103,8 +103,8 @@ Hi! I'm Anastasiia — a Full Stack Developer based in Colorado, USA 🇺🇸
       <a href="https://project-artsy.onrender.com/">🌐 Live Demo</a> •
       <a href="https://github.com/AnastasiiaMuzh/Project_Artsy">📂 GitHub</a>
     </td>
-    <td align="center" width="40%">
-      <img src="Screenshot_2025-06-01_at_8.01.25_PM-removebg-preview (1).png" width="50" alt="JA-Vacation Logo" />
+    <td align="center" width="33%">
+      <img src="Screenshot_2025-06-01_at_8.01.25_PM-removebg-preview (1).png" width="60" height="60"  alt="JA-Vacation Logo" />
       <br><b>JA-Vacation</b><br>
       <i>Travel Planning Application</i><br>
       <b>Tech:</b> Express, Sequelize, React, Redux<br>
