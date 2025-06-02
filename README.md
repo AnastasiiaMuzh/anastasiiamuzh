@@ -121,7 +121,8 @@ Hi! I'm Anastasiia — a Full Stack Developer based in Colorado, USA 🇺🇸
      width="40"
      height="35"
      alt="JA-Vacation Logo"
-     style="vertical-align:bottom; margin-right:8px; margin-bottom:0px;" />
+     style="vertical-align:sub; margin-right:8px;" />
+
         JA-Vacation
       </h3>
       <p><em>Travel Planning Application</em></p>
