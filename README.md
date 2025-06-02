@@ -85,11 +85,21 @@ Hi! I'm Anastasiia — a Full Stack Developer based in Colorado, USA 🇺🇸
 
 <div align="center">
   
+  <div align="center">
+  
+  ## 🚀 Featured Projects
+  
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="50%">
+  
+</div>
+
+<div align="center">
+  
   <table>
   <tr>
     <td align="center" width="33%">
       <h3 style="display:inline-flex; align-items:center; justify-content:center; gap:12px; margin:0;">
-        <img src="Screenshot_2025-03-03_at_1.48.10_PM-removebg-preview.png" width="45" alt="Wildorado Logo" style="vertical-align:middle;" />
+        <img src="Screenshot_2025-03-03_at_1.48.10_PM-removebg-preview.png" width="45" height="45" alt="Wildorado Logo" style="vertical-align:middle; object-fit:contain;" />
         Wildorado
       </h3>
       <p><em>Hiker's Activity Platform</em></p>
@@ -102,8 +112,8 @@ Hi! I'm Anastasiia — a Full Stack Developer based in Colorado, USA 🇺🇸
       </a>
     </td>
     <td align="center" width="33%">
-      <h3 style="display:inline-flex; align-items:center; justify-content:center; gap:12px; margin:top-10px;">
-        <img src="Screenshot_2025-06-01_at_6.12.16_PM-removebg-preview.png" width="45" alt="Artsy Logo" style="vertical-align:middle;" />
+      <h3 style="display:inline-flex; align-items:center; justify-content:center; gap:12px; margin:0;">
+        <img src="Screenshot_2025-06-01_at_6.12.16_PM-removebg-preview.png" width="45" height="45" alt="Artsy Logo" style="vertical-align:middle; object-fit:contain;" />
         Artsy
       </h3>
       <p><em>E-commerce Platform</em></p>
@@ -117,7 +127,7 @@ Hi! I'm Anastasiia — a Full Stack Developer based in Colorado, USA 🇺🇸
     </td>
     <td align="center" width="33%">
       <h3 style="display:inline-flex; align-items:center; justify-content:center; gap:12px; margin:0;">
-        <img src="Screenshot_2025-06-01_at_6.12.29_PM-removebg-preview.png" width="45" alt="JA-Vacation Logo" style="vertical-align:middle;" />
+        <img src="Screenshot_2025-06-01_at_6.12.29_PM-removebg-preview.png" width="45" height="45" alt="JA-Vacation Logo" style="vertical-align:middle; object-fit:contain;" />
         JA-Vacation
       </h3>
       <p><em>Travel Planning Application</em></p>
@@ -131,6 +141,8 @@ Hi! I'm Anastasiia — a Full Stack Developer based in Colorado, USA 🇺🇸
     </td>
   </tr>
 </table>
+
+</div>
 
 </div>
 
