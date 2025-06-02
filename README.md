@@ -33,7 +33,6 @@ Hi! I'm Anastasiia — a Full Stack Developer based in Colorado, USA 🇺🇸
 <div align="center">
   
   ## 🛠️ Tech Arsenal
-  
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="50%">
   
 </div>
