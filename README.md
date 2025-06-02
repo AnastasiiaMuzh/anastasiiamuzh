@@ -89,7 +89,7 @@ Hi! I'm Anastasiia — a Full Stack Developer based in Colorado, USA 🇺🇸
   <tr>
     <td align="center" width="33%">
       <h3 align="center" style="display:flex; align-items:center; justify-content:center;">
-        <img src="Screenshot_2025-03-03_at_1.48.10_PM-removebg-preview.png" width="32" alt="Wildorado Logo" style="vertical-align:middle; margin-right:4px; margin-button-50px;" />
+        <img src="Screenshot_2025-03-03_at_1.48.10_PM-removebg-preview.png" width="32" alt="Wildorado Logo" style="vertical-align:middle; margin-right:4px; margin-top:10px;" />
         Wildorado
       </h3>
       <p><em>Hiker's Activity Platform</em></p>
