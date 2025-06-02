@@ -28,7 +28,7 @@ Hi! I'm Anastasiia — a Full Stack Developer based in Colorado, USA 🇺🇸
   
 </div>
 
----
+
 
 <div align="center">
   
