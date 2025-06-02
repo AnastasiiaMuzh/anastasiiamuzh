@@ -87,50 +87,49 @@ Hi! I'm Anastasiia — a Full Stack Developer based in Colorado, USA 🇺🇸
 <div align="center">
   
   <table>
-    <tr>
-      <td align="center" width="50%">
-        <h3 align="center">
-          <img src="Screenshot_2025-03-03_at_1.48.10_PM-removebg-preview.png" width="40" alt="Wildorado Logo" style="vertical-align: middle;"/> &nbsp; Wildorado
-        </h3>
+  <tr>
+    <td align="center" width="50%">
+      <img src="Screenshot_2025-03-03_at_1.48.10_PM-removebg-preview.png" width="50" alt="Wildorado Logo"/><br>
+      <h3>Wildorado</h3>
+      <p><em>Hiker's Activity Platform</em></p>
+      <p><strong>Tech:</strong> React, Redux, Python, Flask, SQLAlchemy, PostgreSQL</p>
+      <br>
+      <a href="https://wildorado.onrender.com/">
+        <img src="https://img.shields.io/badge/🌐_Live_Demo-6366F1?style=for-the-badge" alt="Live Demo">
+      </a>
+      <a href="https://github.com/AnastasiiaMuzh/Wildorado">
+        <img src="https://img.shields.io/badge/📂_GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <h3>🎨 Artsy</h3>
+      <p><em>E-commerce Platform</em></p>
+      <p><strong>Tech:</strong> Flask, Python, SQLAlchemy, React, Redux</p>
+      <br>
+      <a href="https://project-artsy.onrender.com/">
+        <img src="https://img.shields.io/badge/🌐_Live_Demo-6366F1?style=for-the-badge" alt="Live Demo">
+      </a>
+      <a href="https://github.com/AnastasiiaMuzh/Project_Artsy">
+        <img src="https://img.shields.io-badge/📂_GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <h3>✈️ JA-Vacation</h3>
+      <p><em>Travel Planning Application</em></p>
+      <p><strong>Tech:</strong> Express, Sequelize, React, Redux</p>
+      <br>
+      <a href="https://ja-vacation-ecqu.onrender.com/">
+        <img src="https://img.shields.io/badge/🌐_Live_Demo-6366F1?style=for-the-badge" alt="Live Demo">
+      </a>
+      <a href="https://github.com/AnastasiiaMuzh/JA_VACATION">
+        <img src="https://img.shields.io/badge/📂_GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
+      </a>
+    </td>
+  </tr>
+</table>
 
-        <p><em>Hiker's Activity Platform</em></p>
-        <p><strong>Tech:</strong> React, Redux, Python, Flask, SQLAlchemy, PostgreSQL</p>
-        <br>
-        <a href="https://wildorado.onrender.com/">
-          <img src="https://img.shields.io/badge/🌐_Live_Demo-6366F1?style=for-the-badge" alt="Live Demo">
-        </a>
-        <a href="https://github.com/AnastasiiaMuzh/Wildorado">
-          <img src="https://img.shields.io/badge/📂_GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <h3>🎨 Artsy</h3>
-        <p><em>E-commerce Platform</em></p>
-        <p><strong>Tech:</strong> Flask, Python, SQLAlchemy, React, Redux</p>
-        <br>
-        <a href="https://project-artsy.onrender.com/">
-          <img src="https://img.shields.io/badge/🌐_Live_Demo-6366F1?style=for-the-badge" alt="Live Demo">
-        </a>
-        <a href="https://github.com/AnastasiiaMuzh/Project_Artsy">
-          <img src="https://img.shields.io/badge/📂_GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <h3>✈️ JA-Vacation</h3>
-        <p><em>Travel Planning Application</em></p>
-        <p><strong>Tech:</strong> Express, Sequelize, React, Redux</p>
-        <br>
-        <a href="https://ja-vacation-ecqu.onrender.com/">
-          <img src="https://img.shields.io/badge/🌐_Live_Demo-6366F1?style=for-the-badge" alt="Live Demo">
-        </a>
-        <a href="https://github.com/AnastasiiaMuzh/JA_VACATION">
-          <img src="https://img.shields.io/badge/📂_GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
-        </a>
-      </td>
-    </tr>
-  </table>
   
 </div>
 
