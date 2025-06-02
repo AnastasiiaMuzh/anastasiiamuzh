@@ -89,7 +89,7 @@ Hi! I'm Anastasiia — a Full Stack Developer based in Colorado, USA 🇺🇸
   <table>
   <tr>
     <td align="center" width="50%">
-      <img src="Screenshot_2025-03-03_at_1.48.10_PM-removebg-preview.png" width="50" alt="Wildorado Logo"/><br>
+      <img src="Screenshot_2025-06-01_at_6.32.41_PM-removebg-preview.png" width="50" alt="Wildorado Logo"/><br>
       <h3>Wildorado</h3>
       <p><em>Hiker's Activity Platform</em></p>
       <p><strong>Tech:</strong> React, Redux, Python, Flask, SQLAlchemy, PostgreSQL</p>
@@ -102,6 +102,7 @@ Hi! I'm Anastasiia — a Full Stack Developer based in Colorado, USA 🇺🇸
       </a>
     </td>
     <td align="center" width="50%">
+      <img src="Screenshot_2025-06-01_at_6.12.16_PM-removebg-preview.png" width="50" alt="Artsy Logo"/><br>
       <h3>🎨 Artsy</h3>
       <p><em>E-commerce Platform</em></p>
       <p><strong>Tech:</strong> Flask, Python, SQLAlchemy, React, Redux</p>
@@ -116,6 +117,7 @@ Hi! I'm Anastasiia — a Full Stack Developer based in Colorado, USA 🇺🇸
   </tr>
   <tr>
     <td align="center" colspan="2">
+      <img src="Screenshot_2025-06-01_at_6.12.29_PM-removebg-preview.png" width="50" alt="Artsy Logo"/><br>
       <h3>✈️ JA-Vacation</h3>
       <p><em>Travel Planning Application</em></p>
       <p><strong>Tech:</strong> Express, Sequelize, React, Redux</p>
