@@ -89,7 +89,7 @@ Hi! I'm Anastasiia — a Full Stack Developer based in Colorado, USA 🇺🇸
   <tr>
     <td align="center" width="33%">
       <h3 style="display:inline-flex; align-items:center; justify-content:center; gap:12px; margin:0;">
-        <img src="Screenshot_2025-03-03_at_1.48.10_PM-removebg-preview.png" width="45" height="45" alt="Wildorado Logo" style="vertical-align:middle; object-fit:contain; margin-button: -15px;" />
+        <img src="Screenshot_2025-03-03_at_1.48.10_PM-removebg-preview.png" width="45" height="45" alt="Wildorado Logo" style="vertical-align:middle; object-fit:contain; margin-button: -25px;" />
         Wildorado
       </h3>
       <p><em>Hiker's Activity Platform</em></p>
@@ -103,7 +103,7 @@ Hi! I'm Anastasiia — a Full Stack Developer based in Colorado, USA 🇺🇸
     </td>
     <td align="center" width="33%">
       <h3 style="display:inline-flex; align-items:center; justify-content:center; gap:12px; margin:0;">
-        <img src="Screenshot_2025-06-01_at_6.12.16_PM-removebg-preview.png" width="45" height="45" alt="Artsy Logo" style="vertical-align:middle; object-fit:contain; margin-top: 15px;" />
+        <img src="Screenshot_2025-06-01_at_6.12.16_PM-removebg-preview.png" width="45" height="45" alt="Artsy Logo" style="vertical-align:middle; object-fit:contain; margin-top: -25px;" />
         Artsy
       </h3>
       <p><em>E-commerce Platform</em></p>
@@ -117,7 +117,7 @@ Hi! I'm Anastasiia — a Full Stack Developer based in Colorado, USA 🇺🇸
     </td>
     <td align="center" width="33%">
       <h3 style="display:inline-flex; align-items:center; justify-content:center; gap:12px; margin:0;">
-        <img src="Screenshot_2025-06-01_at_6.12.29_PM-removebg-preview.png" width="45" height="45" alt="JA-Vacation Logo" style="vertical-align:middle; object-fit:contain; margin-top: 20px;" />
+        <img src="Screenshot_2025-06-01_at_6.12.29_PM-removebg-preview.png" width="45" height="45" alt="JA-Vacation Logo" style="vertical-align:middle; object-fit:contain; margin-top: 40px;" />
         JA-Vacation
       </h3>
       <p><em>Travel Planning Application</em></p>
