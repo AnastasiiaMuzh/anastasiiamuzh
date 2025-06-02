@@ -102,7 +102,7 @@ Hi! I'm Anastasiia — a Full Stack Developer based in Colorado, USA 🇺🇸
       </a>
     </td>
     <td align="center" width="33%">
-      <h3 style="display:inline-flex; align-items:center; justify-content:center; gap:12px; margin:0;">
+      <h3 style="display:inline-flex; align-items:center; justify-content:center; gap:12px; margin:top-10px;">
         <img src="Screenshot_2025-06-01_at_6.12.16_PM-removebg-preview.png" width="45" alt="Artsy Logo" style="vertical-align:middle;" />
         Artsy
       </h3>
