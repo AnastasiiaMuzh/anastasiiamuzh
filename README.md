@@ -19,7 +19,7 @@ Hi! I'm Anastasiia — a Full Stack Developer based in Colorado, USA 🇺🇸
 - 🚀 **Current Status:** Open to new opportunities
 
 
----
+
 <div align="center">
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://anastasiiamuzh.github.io/Portfolio-bootstrap/)
@@ -27,7 +27,7 @@ Hi! I'm Anastasiia — a Full Stack Developer based in Colorado, USA 🇺🇸
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anamoose.dev@outlook.com)
   
 </div>
-
+---
 
 
 <div align="center">
