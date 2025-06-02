@@ -89,7 +89,7 @@ Hi! I'm Anastasiia — a Full Stack Developer based in Colorado, USA 🇺🇸
   <tr>
     <td align="center" width="33%">
       <h3 align="center" style="display:flex; align-items:center; justify-content:center;">
-        <img src="Screenshot_2025-03-03_at_1.48.10_PM-removebg-preview.png" width="32" alt="Wildorado Logo" style="vertical-align:middle; margin-right:8px;" />
+        <img src="Screenshot_2025-03-03_at_1.48.10_PM-removebg-preview.png" width="32" alt="Wildorado Logo" style="vertical-align:middle; margin-right-4px; margin-button-5px;" />
         Wildorado
       </h3>
       <p><em>Hiker's Activity Platform</em></p>
@@ -173,7 +173,6 @@ Hi! I'm Anastasiia — a Full Stack Developer based in Colorado, USA 🇺🇸
   ## 💬 Let's Connect!
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/anastasiia-m-618980290/)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/AnastasiiaMuzh)
   [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=6366F1)](https://anastasiiamuzh.github.io/Portfolio-bootstrap/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:anamoose.dev@outlook.com)
   
