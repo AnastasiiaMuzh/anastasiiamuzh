@@ -87,7 +87,7 @@ Hi! I'm Anastasiia — a Full Stack Developer based in Colorado, USA 🇺🇸
   
  <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="35%">
       <img src="Screenshot_2025-06-01_at_6.32.41_PM-removebg-preview.png" width="40" alt="Wildorado Logo" />
       <br><b>Wildorado</b><br>
       <i>Hiker's Activity Platform</i><br>
